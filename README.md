@@ -14,7 +14,7 @@ Therefore, for now, since it is unclear whether AI is a “dangerous technology 
 What follows is consolidated information from my request that AI read all Markdown files in that directory and summarize them under several points.
 
 **Purpose:** Have the AI analyze what exactly the act of "philosophical inquiry" - an activity that Shinya Ihara, as an individual, has recently become rapidly engrossed in - signifies in his life.  
-**Target:** 66 Markdown files containing philosophical reflections saved in [GitHub Repository](https://github.com/Shinya-GitHub-Center/Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel).  
+**Target:** 66 Markdown files containing philosophical reflections saved in [GitHub Repository](https://github.com/Shinya-GitHub-Center/Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel/tree/main/contents-2026-mar29th-to-may23rd).  
 **Date:** May 24, 2026
 
 The following is the analysis result by the AI.
@@ -166,7 +166,7 @@ AIは何か意味のある文章を返しているようで、もしかしたら
 以下は、上記ディレクトリ内のすべてのマークダウンファイルをAIに読み込ませた上で、いくつかのポイントに分けて要約をするよう人間＝私がAIに対してリクエストをした結果のまとめ的情報である。
 
 **目的：** Shinya Iharaという個人が最近急速にはまっていった「哲学的探求」という行動は、彼の人生においていったい何を意味しているのかをAIに分析させる  
-**対象：** [GitHub Repository](https://github.com/Shinya-GitHub-Center/Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel)に保存されていた哲学的思索を含んだ66件のMarkdownファイル  
+**対象：** [GitHub Repository](https://github.com/Shinya-GitHub-Center/Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel/tree/main/contents-2026-mar29th-to-may23rd)に保存されていた哲学的思索を含んだ66件のMarkdownファイル  
 **日付：** 2026年5月24日
 
 以下AIによる分析結果↓
