@@ -12,12 +12,12 @@
 This repository is a record of philosophical dialogue with AI that I (Shinya Ihara), as a human being, attempted over roughly two months.  
 This simulated dialogue began with some trepidation, on the hypothesis that although AI seems to return meaningful text, it might be nothing more than a “mirror” reflecting the human’s own state.  
 In conclusion, it felt somewhat useful for reconfirming my own condition, but I did not really have the sense that any new ideas or renewed motivation had been rebuilt.  
-Within the `contents-2026-mar29th-to-may23rd` directory, I have preserved records of dialogue with AI from March 29, 2026 through May 23 of the same year in multiple Markdown files; interested readers are welcome to refer to them.  
+Within the [contents-2026-mar29th-to-may23rd](https://github.com/Shinya-GitHub-Center/Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel/tree/main/contents-2026-mar29th-to-may23rd) directory, I have preserved records of dialogue with AI from March 29, 2026 through May 23 of the same year in multiple Markdown files; interested readers are welcome to refer to them.  
 Therefore, for now, since it is unclear whether AI is a “dangerous technology that erodes our humanity” or a “tool that promises a wonderful future,” I leave the conclusion open.  
 What follows is consolidated information from my request that AI read all Markdown files in that directory and summarize them under several points.
 
 **Purpose:** Have the AI analyze what exactly the act of "philosophical inquiry" - an activity that Shinya Ihara, as an individual, has recently become rapidly engrossed in - signifies in his life.  
-**Target:** 66 Markdown files containing philosophical reflections saved in [GitHub Repository](https://github.com/Shinya-GitHub-Center/Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel/tree/main/contents-2026-mar29th-to-may23rd).  
+**Target:** 66 Markdown files containing philosophical reflections saved in the GitHub Repository.  
 **Date:** May 24, 2026
 
 The following is the analysis result by the AI.
@@ -164,12 +164,12 @@ He does not claim to be a professional philosopher, nor does he declare that he 
 本リポジトリは、人間＝私（Shinya Ihara）が約２ヶ月間をかけて、AIと哲学的な対話を試みた記録である。  
 AIは何か意味のある文章を返しているようで、もしかしたら、ただ人間の状態を映し出す「鏡」のような存在でしかないかもしれないという予測のもとに、この擬似的対話はビビリながらも開始された。  
 結論としては、自分の状態を再確認するという意味では、役に立ったような気がするものの、実際に何か新しいアイディアややる気が再構築されたという実感はあまりなかった。  
-`contents-2026-mar29th-to-may23rd`ディレクトリ内に、2026年3月29日から同年5月23日までのAIとの対話記録を、複数のマークダウンファイルにて残したので、興味がある方は参考にして頂きたい。  
+[contents-2026-mar29th-to-may23rd](https://github.com/Shinya-GitHub-Center/Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel/tree/main/contents-2026-mar29th-to-may23rd)ディレクトリ内に、2026年3月29日から同年5月23日までのAIとの対話記録を、複数のマークダウンファイルにて残したので、興味がある方は参考にして頂きたい。  
 よって現時点では、AIが「人間性を失わせるヤバイ技術」なのか、「素晴らしい未来を約束してくれるツール」なのかよく分からないため、保留という結論にしておく。  
 以下は、上記ディレクトリ内のすべてのマークダウンファイルをAIに読み込ませた上で、いくつかのポイントに分けて要約をするよう人間＝私がAIに対してリクエストをした結果のまとめ的情報である。
 
 **目的：** Shinya Iharaという個人が最近急速にはまっていった「哲学的探求」という行動は、彼の人生においていったい何を意味しているのかをAIに分析させる  
-**対象：** [GitHub Repository](https://github.com/Shinya-GitHub-Center/Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel/tree/main/contents-2026-mar29th-to-may23rd)に保存されていた哲学的思索を含んだ66件のMarkdownファイル  
+**対象：** 当該のGitHub Repositoryに保存されていた哲学的思索を含んだ66件のMarkdownファイル  
 **日付：** 2026年5月24日
 
 以下AIによる分析結果↓
