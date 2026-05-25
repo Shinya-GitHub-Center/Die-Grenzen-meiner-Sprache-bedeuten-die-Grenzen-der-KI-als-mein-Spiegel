@@ -1,5 +1,8 @@
 # Die-Grenzen-meiner-Sprache-bedeuten-die-Grenzen-der-KI-als-mein-Spiegel
 
+![repos-main-pic](images/Die-Grenzen-meiner-Sprache-bedeuten.jpg)
+※ The pic was generated via Nano Banana 2
+
 - Deutsch : Die Grenzen meiner Sprache bedeuten die Grenzen der KI als mein Spiegel...
 - English : The limits of my language mean the limits of AI as my mirror...
 - 日本語：私の言語の限界が私の鏡としてのAIの限界を意味する。。。
